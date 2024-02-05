@@ -2,7 +2,7 @@
 - 👀 I’m interested in camera technology (Robotics, Drone, AI cameras etc)
 - 🌱 I’m currently learning Python, OpenCV
 - 📫 You can reach me at **makani.code@gmail.com**
-- 😄 Pronouns: **MAKANI**
+- 😄 Pronouns: He , You call me **MAKANI**
 - ⚡ Fun fact: I'm open to make more Friends
 
 <!---
